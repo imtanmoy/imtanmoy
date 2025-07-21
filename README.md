@@ -5,7 +5,7 @@ Full-Stack Engineer with 7+ years of experience specializing in product developm
 ## 🚀 Quick Facts
 
 - 🔭 I'm currently working as a Full Stack Software Engineer at Pinwheel
-- 🌱 I'm constantly learning and improving my skills in TypeScript, React.js, Nest.js, and AWS
+- 🌱 I'm constantly learning and improving my skills in TypeScript, Golang, React.js, Nest.js, and AWS
 - 💼 I have experience working remotely with global companies
 - 🎓 MSc in Computer Science and Engineering from United International University
 
@@ -21,7 +21,7 @@ Full-Stack Engineer with 7+ years of experience specializing in product developm
 
 ## 🏆 Key Projects
 
-- Developed a RabbitMQ-based service for real-time mobile device updates via MQTT protocol
+- Developed a RabbitMQ-based service for real-time mobile device updates via the MQTT protocol
 - Implemented WebAuthn and biometric-based login for web and React Native projects
 - Developed an embedded banking solution integrating partner bank APIs into standard business lines, facilitating streamlined financial processes
 - Architected automated SSL certificate generation using Caddy server, reducing manual configuration time by 80% for an in-house no-code builder
